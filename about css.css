@@ -1,0 +1,32 @@
+.head1
+{
+    background-color: royalblue;
+    width: 80em;
+    border: 0.2em solid darkred;
+    box-shadow: 0px 0px 50px ed;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+    border-radius: 25%;
+}
+
+.header
+{
+    width: 8em;
+    border: 0.2em solid black;
+    background-color: lightblue;
+    margin-right: 2em;
+    border-radius: 30%;
+    justify-content: center;
+}
+
+.body
+{
+    background-color: royalblue;
+    width: 30em;
+    border:black solid 2px;
+    justify-content:end;
+    margin-left: 24em;
+}

@@ -1,0 +1,76 @@
+.head1
+{
+    background-color: royalblue;
+    width: 80em;
+    border: 0.2em solid darkred;
+    box-shadow: 0px 0px 50px ed;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+    border-radius: 25%;
+}
+
+.menu-li
+{
+    background-color: lightblue;
+    border: 0.2em solid black;
+    border-radius: 30%;
+    box-shadow: 0 0 20px black;
+    padding: 0.5em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-align: center;
+    margin: auto;
+}
+
+.header
+{
+    width: 8em;
+    border: 0.2em solid black;
+    background-color: lightblue;
+    margin-right: 2em;
+    border-radius: 30%;
+    justify-content: center;
+}
+
+
+.drop-menu
+{
+    display: none;
+}
+.drop-button:hover .drop-menu
+{
+    display:block;
+    position: absolute;
+}
+
+
+.head2
+{
+    background-color: royalblue;
+    width: 80em;
+    border: 0.2em solid darkred;
+    box-shadow: 0px 0px 50px ed;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+    border-radius: 25%;
+}
+
+.body
+{
+    background-color: royalblue ;
+    width: 20em;
+    border:black solid 2px;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+    justify-content:end;
+}
+
+a:visited{color: black;}
+a:hover{color: blue;}
